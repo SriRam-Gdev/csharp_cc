@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "OCJvWJmJ/gCxka/GYuHC/r9Qz6bgClnZkwkH0jERnZ9kYOhrW3nSStDnkEsPMZ4o7rZ4DL+/RuaMWPHmVc173g==",
-  "success": true,
-  "projectFilePath": "D:\\class_C#\\TestProject.csproj",
-=======
   "dgSpecHash": "eQAwYXwVF/7AsbetAXvxjsMU7VVNfDhQZIF+2NOd6uHyv7M0NH+Czt6yw7qHpPQeN+ZKIg6CKFoJqZ8qGJu/9g==",
   "success": true,
   "projectFilePath": "D:\\foreachCsh\\CsharpProjects\\TestProject\\TestProject.csproj",
->>>>>>> 6b52b59 (string)
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\foreachCsh\\CsharpProjects\\TestProject\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

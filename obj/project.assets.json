@@ -13,19 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "D:\\class_C#\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "D:\\class_C#\\TestProject.csproj",
-      "packagesPath": "C:\\Users\\ssrir\\.nuget\\packages\\",
-      "outputPath": "D:\\class_C#\\obj\\",
-=======
       "projectUniqueName": "D:\\foreachCsh\\CsharpProjects\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
       "projectPath": "D:\\foreachCsh\\CsharpProjects\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\ssrir\\.nuget\\packages\\",
       "outputPath": "D:\\foreachCsh\\CsharpProjects\\TestProject\\obj\\",
->>>>>>> 6b52b59 (string)
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ssrir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -77,5 +69,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\foreachCsh\\CsharpProjects\\TestProject\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
