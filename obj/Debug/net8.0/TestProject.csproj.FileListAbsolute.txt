@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\class_C#\bin\Debug\net8.0\TestProject.exe
 D:\class_C#\bin\Debug\net8.0\TestProject.deps.json
 D:\class_C#\bin\Debug\net8.0\TestProject.runtimeconfig.json
@@ -13,3 +14,19 @@ D:\class_C#\obj\Debug\net8.0\TestProject.pdb
 D:\class_C#\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 D:\class_C#\obj\Debug\net8.0\ref\TestProject.dll
 D:\class_C#\obj\Debug\net8.0\TestProject.sourcelink.json
+=======
+D:\foreachCsh\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+D:\foreachCsh\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+D:\foreachCsh\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+D:\foreachCsh\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+D:\foreachCsh\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+D:\foreachCsh\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\foreachCsh\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+D:\foreachCsh\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+D:\foreachCsh\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+D:\foreachCsh\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+D:\foreachCsh\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+D:\foreachCsh\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+D:\foreachCsh\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+D:\foreachCsh\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+>>>>>>> 6b52b59 (string)
