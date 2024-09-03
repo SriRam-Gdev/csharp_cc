@@ -30,3 +30,4 @@ D:\foreachCsh\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
 D:\foreachCsh\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 D:\foreachCsh\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
 >>>>>>> 6b52b59 (string)
+D:\foreachCsh\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
